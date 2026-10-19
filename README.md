@@ -1,0 +1,1 @@
+# Omni Temp Mail — Multi-API Native Android App (mail.tm, 1secmail, mail.gw)
